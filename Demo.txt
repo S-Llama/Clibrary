@@ -1,0 +1,21 @@
+1.
+#include <stdio.h>
+int main ( ) 
+{
+printf ("Hello");
+
+
+return 0;
+}
+
+
+2.
+#include <stdio.h>
+void main ( ) 
+{
+printf ("Hello");
+
+
+
+}
+
