@@ -1,0 +1,20 @@
+1.
+#include <stdio.h>
+int main ( ) 
+{
+printf ("Sabhyata Lama");
+
+
+return 0;
+}
+
+2.
+#include <stdio.h>
+int main ( ) 
+{
+printf ("Roll No.");
+
+
+return 0;
+}
+
