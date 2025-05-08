@@ -16,10 +16,11 @@ int main (){
 	printf("\n");
 	scanf(" %c", &gender);
 	
-	printf("/n Details /n");
+	printf("Details /n");
 	printf("\nRoll number = %d", roll);
 	printf("\nAge = %d", age);
 	printf("\nName = %s", name);
 	printf("\nGender = %c", gender);
-	return 0;
+	
+    return 0;
 }
